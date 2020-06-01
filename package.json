@@ -1,8 +1,8 @@
 {
   "name": "@trilom/file-changes-action",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "engines": {
-    "node": "12.16.1"
+    "node": "12.16.3"
   },
   "description": "Creates outputs variables of files modified, added, or removed by a PR or Push.",
   "main": "lib/main.js",
